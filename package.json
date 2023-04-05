@@ -1,0 +1,30 @@
+{
+  "name": "epubconventer",
+  "version": "0.0.1",
+  "description": "Epub conventer",
+  "main": "convert.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node lib/convert.js",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timursevimli/epubconventer.git"
+  },
+  "keywords": [
+    "epub",
+    "pdf",
+    "convert",
+    "node.js"
+  ],
+  "author": "Timur Sevimli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timursevimli/epubconventer/issues"
+  },
+  "homepage": "https://github.com/timursevimli/epubconventer#readme",
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
