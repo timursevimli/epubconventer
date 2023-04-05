@@ -5,7 +5,6 @@
   "main": "convert.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node lib/convert.js",
     "test": "eslint ."
   },
   "repository": {
