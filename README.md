@@ -25,4 +25,4 @@ converter.convert();
 The convert method returns a Promise that resolves when all the conversions have completed.
 
 License
-This script is licensed under the MIT License.pub conventer
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/timursevimli/epubconventer/blob/main/LICENSE) file for details.
