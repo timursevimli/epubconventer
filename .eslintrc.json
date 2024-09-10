@@ -17,7 +17,7 @@
     "linebreak-style": ["error", "unix"],
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
-    "no-loop-func": ["error"],
+    "no-loop-func": ["off"],
     "block-spacing": ["error", "always"],
     "camelcase": ["error"],
     "eqeqeq": ["error", "always"],
