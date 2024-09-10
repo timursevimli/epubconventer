@@ -16,4 +16,4 @@ const parseArgs = () =>
 
 const { target, output } = parseArgs();
 
-new EpubConverter(target, output).convert();
+new EpubConverter({ target, output, cli: true }).convert();
