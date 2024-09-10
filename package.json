@@ -4,6 +4,9 @@
   "description": "Epub conventer",
   "main": "lib/convert.js",
   "type": "commonjs",
+  "engines": {
+    "node": "14 || 16 || 18 || 20 || 22"
+  },
   "scripts": {
     "test": "eslint ."
   },
