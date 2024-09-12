@@ -56,7 +56,7 @@ The convert method returns a Promise that resolves when all the conversions have
 
 ## Requirements
 
-- Node.js v16.17 or higher
+- Node.js v16.18 or higher
 - `ebook-convert` tool from Calibre
 
 ## License
