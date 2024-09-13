@@ -1,5 +1,11 @@
 # Epub Converter
 
+[![ci Status](https://github.com/timursevimli/epubconventer/workflows/CI/badge.svg)](https://github.com/timursevimli/epubconventer/actions?query=workflow%3A%22CI%22+branch%3Amaster)
+[![snyk](https://snyk.io/test/github/timursevimli/epubconventer/badge.svg)](https://snyk.io/test/github/timursevimli/epubconventer)
+[![npm downloads/month](https://img.shields.io/npm/dm/epubconventer.svg)](https://www.npmjs.com/package/epubconventer)
+[![npm downloads](https://img.shields.io/npm/dt/epubconventer.svg)](https://www.npmjs.com/package/epubconventer)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timursevimli/epubconventer/blob/master/LICENSE)
+
 A Node.js script for converting PDF files to EPUB format using the ebook-convert tool from Calibre.
 
 ## Installation
