@@ -1,6 +1,6 @@
 {
   "name": "epubconventer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Epub conventer",
   "main": "lib/convert.js",
   "type": "commonjs",
