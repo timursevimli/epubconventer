@@ -1,6 +1,6 @@
 {
   "name": "epubconverter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Epub converter",
   "main": "lib/convert.js",
   "type": "commonjs",
